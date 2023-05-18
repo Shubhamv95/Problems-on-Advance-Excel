@@ -1,2 +1,2 @@
-# Problems-on-Advance-Excel
+# Analysis Using Advance-Excel 
 Some examples on how advance excel function work
